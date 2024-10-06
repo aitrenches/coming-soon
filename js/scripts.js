@@ -8,7 +8,7 @@ $(function () {
 
     $('#timer').countdown({
         // date: nextyear, //TODO Date format: 07/27/2017 17:00:00
-        date: '10/29/2023 17:00:00', //TODO Date format: 07/27/2017 17:00:00
+        date: '11/01/2024 17:00:00', //TODO Date format: 07/27/2017 17:00:00
         offset: +2,
         day: 'Day',
         days: 'Days'
